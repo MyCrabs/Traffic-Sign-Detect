@@ -31,6 +31,6 @@ This dataset includes 17 class: Speed limit 10, speed limit 20, speed limit 30, 
 Replace dataset.yaml with the path to your dataset configuration file, and adjust the epochs parameter as needed.
 
 ## Contact
-If you have any questions or suggestions, feel free to open an issue or contact me at [My Gmail](thanhduy190903@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or contact me at [thanhduy190903@gmail.com]
 
 
